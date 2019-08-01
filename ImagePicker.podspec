@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name          = "ImagePicker"
+  spec.name          = "ZYImagePicker"
   spec.version       = "1.0.0"
   spec.summary       = "ImagePicker"
   spec.swift_version = '5.0'
